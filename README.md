@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi, I'm Nikolai 👋
 
-<!--
-**NikolaiKhriapov/NikolaiKhriapov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have basic knowledge of Java (JavaRush lvl29 https://javarush.ru/users/2948439)
 
-Here are some ideas to get you started:
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=NikolaiKhriapov&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=NikolaiKhriapov&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/NikolaiKhriapov/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiKhriapov&layout=compact"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+   📫 My e-mail: <a href='mailto:kolyakhryapov@gmail.com'>kolyakhryapov@gmail.com</a>
+</p>
+
+### Primary Skills
+*   Java Core
+*   Proficiency in English – C2 (4 years of work experience as a Translator)
+*   Proficiency in Chinese – HSK3 (2.5 years of studying in Nanjing, China)
+
+### Currently Studying
+*   Courses (JavaRush, Java Development Basics (EPAM Systems))
+*   SQL, JDBC, Maven, Spring
+
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/romankh3/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=NikolaiKhriapov&color=DE002D">
+   </a>
+</div>
