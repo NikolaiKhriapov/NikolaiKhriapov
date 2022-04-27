@@ -21,7 +21,7 @@ I have basic knowledge of Java (JavaRush lvl30 https://javarush.ru/users/2948439
 
 ### Currently Studying
 *   Courses (JavaRush, Java Development Basics (EPAM Systems))
-*   Spring Framework, SQL, Maven
+*   Spring Core, PostgreSQL (basic queries)
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/romankh3/github-profile-views-counter">
