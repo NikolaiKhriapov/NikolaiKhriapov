@@ -18,6 +18,7 @@ I have basic knowledge of Java (JavaRush lvl30 https://javarush.ru/users/2948439
 *   Java Core, Spring Core, PostgreSQL (basic queries)
 *   Proficiency in English – C2 (4 years of work experience as a Translator)
 *   Proficiency in Chinese – HSK3 (2.5 years of studying in Nanjing, China)
+*   Proficiency in Russian, Ukrainian – native
 
 ### Courses
 *   JavaRush - Java Core
