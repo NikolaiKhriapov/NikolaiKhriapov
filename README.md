@@ -1,6 +1,6 @@
 ### Hi, I'm Nikolai 👋
 
-I have basic knowledge of Java (JavaRush lvl29 https://javarush.ru/users/2948439)
+I have basic knowledge of Java (JavaRush lvl30 https://javarush.ru/users/2948439)
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=NikolaiKhriapov&show_icons=true&count_private=true"><img
