@@ -15,13 +15,13 @@ I have basic knowledge of Java (JavaRush lvl30 https://javarush.ru/users/2948439
 </p>
 
 ### Primary Skills
-*   Java Core
+*   Java Core, Spring Core, PostgreSQL (basic queries)
 *   Proficiency in English – C2 (4 years of work experience as a Translator)
 *   Proficiency in Chinese – HSK3 (2.5 years of studying in Nanjing, China)
 
-### Currently Studying
-*   Courses (JavaRush, Java Development Basics (EPAM Systems))
-*   Spring Core, PostgreSQL (basic queries)
+### Courses
+*   JavaRush - Java Core
+*   EPAM Systems – Java Development Basics 
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/romankh3/github-profile-views-counter">
