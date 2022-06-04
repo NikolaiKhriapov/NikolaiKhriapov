@@ -1,7 +1,5 @@
 ### Hi, I'm Nikolai 👋
 
-I have basic knowledge of Java (JavaRush lvl30 https://javarush.ru/users/2948439)
-
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=NikolaiKhriapov&show_icons=true&count_private=true"><img
            height=150
@@ -14,15 +12,14 @@ I have basic knowledge of Java (JavaRush lvl30 https://javarush.ru/users/2948439
    📫 My e-mail: <a href='mailto:kolyakhryapov@gmail.com'>kolyakhryapov@gmail.com</a>
 </p>
 
-### Primary Skills
-*   Java Core, Spring Core, Spring MVC, PostgreSQL (basic queries), Git
-*   Proficiency in English – C2 (4 years of work experience as a Translator)
-*   Proficiency in Chinese – HSK3 (2.5 years of studying in Nanjing, China)
-*   Proficiency in Russian, Ukrainian – native
+### Skills
+*   Java Core, Spring Core, Spring MVC, JDBC, PostgreSQL, Git
+*   IntelliJ IDEA, Eclipse
 
-### Courses
-*   JavaRush - Java Core
-*   EPAM Systems – Java Development Basics 
+### Languages
+*   English – <a href='https://www.efset.org/cert/8Aomkp'>proficient (C2)</a>
+*   Chinese – elementary
+*   Russian, Ukrainian – native
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/romankh3/github-profile-views-counter">
