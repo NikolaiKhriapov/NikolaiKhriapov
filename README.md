@@ -28,12 +28,12 @@
 *   <a href="https://www.linkedin.com/learning/certificates/b87c9c62c817d20ba4cbed9a3056c1ab6254f696789b992e343a8b86677f032d?u=106534538">Git Essential Training: The Basics (2022) – LinkedIn Learning</a>
 
 ### Projects
-*   <a href="https://github.com/SkiProject/prkt">Booking Management Application for Ski Rental Shop</a>
-*   Skills: Java, Spring Boot, Spring MVC, Spring Data JPA, PostgreSQL, Git
-*   Description:
-*   •	Maintenance of database of all equipment and its characteristics;
-*   •	Registration and management of bookings (client, riders, needed equipment, assigned equipment);
-*   •	Support for multiple languages.
+<a href="https://github.com/SkiProject/prkt">Booking Management Application for Ski Rental Shop</a>
+Skills: Java, Spring Boot, Spring MVC, Spring Data JPA, PostgreSQL, Git
+Description:
+*   Maintenance of database of all equipment and its characteristics;
+*   Registration and management of bookings (client, riders, needed equipment, assigned equipment);
+*   Support for multiple languages.
 
 ### Languages
 *   English – <a href='https://www.efset.org/cert/8Aomkp'>proficient (C2)</a>
