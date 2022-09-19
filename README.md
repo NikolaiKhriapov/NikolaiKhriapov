@@ -29,7 +29,7 @@
 
 ### Projects
 <a href="https://github.com/SkiProject/prkt">Booking Management Application for Ski Rental Shop</a><br/>
-Skills: Java, Spring Boot, Spring MVC, Spring Data JPA, PostgreSQL, Git
+Skills: Java, Spring Boot, Spring MVC, Spring Data JPA, PostgreSQL, Git<br/>
 Description:
 *   Maintenance of database of all equipment and its characteristics;
 *   Registration and management of bookings (client, riders, needed equipment, assigned equipment);
