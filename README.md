@@ -28,7 +28,7 @@
 *   <a href="https://www.linkedin.com/learning/certificates/b87c9c62c817d20ba4cbed9a3056c1ab6254f696789b992e343a8b86677f032d?u=106534538">Git Essential Training: The Basics (2022)</a> – LinkedIn Learning
 
 ### Projects
-<p href="https://github.com/SkiProject/prkt">Booking Management Application for Ski Rental Shop</p>
+<div href="https://github.com/SkiProject/prkt">Booking Management Application for Ski Rental Shop</div>
 Skills: Java, Spring Boot, Spring MVC, Spring Data JPA, PostgreSQL, Git
 Description:
 *   Maintenance of database of all equipment and its characteristics;
