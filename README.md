@@ -17,7 +17,7 @@
 *   IntelliJ IDEA, Eclipse
 
 ### Courses & Certificates
-*   <a href="https://www.linkedin.com/learning/certificates/7d4c4ae7529929870d49b11f3f1c19c142ac723dfeb34076834f631c98e6330f?u=106534538">Advanced Java Programming (2022) – LinkedIn Learning</a>
+*   <a href="https://www.linkedin.com/learning/certificates/7d4c4ae7529929870d49b11f3f1c19c142ac723dfeb34076834f631c98e6330f?u=106534538">Advanced Java Programming (2022)</a> – LinkedIn Learning
 *   <a href="https://www.linkedin.com/learning/certificates/f3b2791390e52674453fbce3c100d6e23dfae92e9ce5b6fa6d9d65cc9bf5b36f?u=106534538">Advanced Design Patterns: Design Principles (2022) – LinkedIn Learning</a>
 *   <a href="https://www.linkedin.com/learning/certificates/3b942b271cd35fbc036efcde96e452dba57a2686b6ae965d5f8fcb9ff48671df?u=106534538">Spring: Framework in Depth (2022) – LinkedIn Learning</a>
 *   <a href="https://www.linkedin.com/learning/certificates/ed6570484424f9f23e93a8822a41f2990641f734b659c30ed7ac0163b990aabc?u=106534538">Spring: Spring MVC (2022) – LinkedIn Learning</a>
@@ -29,7 +29,6 @@
 
 ### Projects
 <a href="https://github.com/SkiProject/prkt">Booking Management Application for Ski Rental Shop</a>
-
 Skills: Java, Spring Boot, Spring MVC, Spring Data JPA, PostgreSQL, Git
 Description:
 *   Maintenance of database of all equipment and its characteristics;
