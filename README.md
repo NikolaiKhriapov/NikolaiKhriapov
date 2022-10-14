@@ -13,7 +13,7 @@
 </p>
 
 ### Skills
-*   Java, Spring Core, Spring Boot, Spring MVC, Spring Data JPA, JDBC, PostgreSQL, Git
+*   Java, Spring Core, Spring Boot, Spring MVC, Spring Data JPA, JDBC, PostgreSQL, HTML, Thymeleaf, CSS
 *   IntelliJ IDEA, Eclipse
 
 ### Courses & Certificates
@@ -28,12 +28,12 @@
 *   <a href="https://www.linkedin.com/learning/certificates/b87c9c62c817d20ba4cbed9a3056c1ab6254f696789b992e343a8b86677f032d?u=106534538">Git Essential Training: The Basics (2022)</a> – LinkedIn Learning
 
 ### Projects
-<a href="https://github.com/SkiProject/prkt">Booking Management Application for Ski Rental Shop</a><br/>
-Skills: Java, Spring Boot, Spring MVC, Spring Data JPA, PostgreSQL, Git<br/>
+<a href="https://github.com/NikolaiKhriapov/ski-rental-shop">Booking Management Application for Ski Rental Shop</a><br/>
+Skills: Java, Spring Boot, Spring MVC, Spring Data JPA, PostgreSQL, HTML, Thymeleaf, CSS, Git<br/>
 Description:
 *   Maintenance of database of all equipment and its characteristics;
 *   Registration and management of bookings (client, riders, needed equipment, assigned equipment);
-*   Support for multiple languages.
+*   Support for multiple languages and themes.
 
 ### Languages
 *   English – <a href='https://www.efset.org/cert/8Aomkp'>proficient (C2)</a>
