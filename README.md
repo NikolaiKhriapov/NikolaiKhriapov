@@ -34,7 +34,9 @@ Skills: Java, Spring Boot, Spring MVC, Spring Data JPA, PostgreSQL, HTML, Thymel
 Description:
 *   Maintenance of database of all equipment and its characteristics;
 *   Registration and management of bookings (client, riders, needed equipment, assigned equipment);
-*   Support for multiple languages and themes.
+*   Support for multiple languages;
+*   Support for multiple themes;
+*   Types of users: Admin (management of all equipment, bookings, clients, riders, assignment of equipment), Client (management of bookings and riders related to the client).
 
 ### Languages
 *   English – <a href='https://www.efset.org/cert/8Aomkp'>proficient (C2)</a>
