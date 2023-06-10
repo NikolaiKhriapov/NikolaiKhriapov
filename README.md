@@ -40,5 +40,5 @@ Description:
 
 ### Languages
 *   English – <a href='https://www.efset.org/cert/8Aomkp'>proficient (C2)</a>
-*   Chinese – elementary
+*   Chinese – HSK3 (intermediate)
 *   Russian, Ukrainian – native
