@@ -1,4 +1,4 @@
-### Hi, I'm Nikolai 👋
+![image](https://github.com/NikolaiKhriapov/NikolaiKhriapov/assets/101793479/fbe07159-a0bf-4950-b793-57018c4d86d9)![image](https://github.com/NikolaiKhriapov/NikolaiKhriapov/assets/101793479/960e2338-c1cb-44ff-ae5b-b3edfc205483)![image](https://github.com/NikolaiKhriapov/NikolaiKhriapov/assets/101793479/f26f8bbc-e17d-438a-8415-70f4a7925c94)![image](https://github.com/NikolaiKhriapov/NikolaiKhriapov/assets/101793479/52510f06-de1c-4b3e-b0a3-d4e1224e664a)### Hi, I'm Nikolai 👋
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=NikolaiKhriapov&show_icons=true&count_private=true"><img
@@ -13,10 +13,11 @@
 </p>
 
 ### Skills
-*   Java, Spring Framework, JDBC, PostgreSQL, HTML, Thymeleaf, CSS
+*   Java, Spring Framework (Boot, MVC, Data JPA, Security), RESTful APIs, Microservices, Unit & Integration Testing, PostgreSQL, Docker, Maven, RabbitMQ, Thymeleaf, HTML/CSS, Git, Python, JavaScript (React)
 *   IntelliJ IDEA, Eclipse
 
 ### Courses & Certificates
+*   <a href="https://certificates.epam.com/certificates/f51e6369-bb18-4f5d-b8ac-cb4f7988a32e">Java Web Development</a> (Jul 2022 – Dec 2022) – EPAM Systems (IT Fundamentals, Deep Dive into Java Development, Professional Java SE Development, Building Web Apps with Java, Web Development with Spring)
 *   <a href="https://www.linkedin.com/learning/certificates/7d4c4ae7529929870d49b11f3f1c19c142ac723dfeb34076834f631c98e6330f?u=106534538">Advanced Java Programming (2022)</a> – LinkedIn Learning
 *   <a href="https://www.linkedin.com/learning/certificates/f3b2791390e52674453fbce3c100d6e23dfae92e9ce5b6fa6d9d65cc9bf5b36f?u=106534538">Advanced Design Patterns: Design Principles (2022)</a> – LinkedIn Learning
 *   <a href="https://www.linkedin.com/learning/certificates/3b942b271cd35fbc036efcde96e452dba57a2686b6ae965d5f8fcb9ff48671df?u=106534538">Spring: Framework in Depth (2022)</a> – LinkedIn Learning
@@ -29,16 +30,12 @@
 *   <a href="https://www.linkedin.com/learning/certificates/b87c9c62c817d20ba4cbed9a3056c1ab6254f696789b992e343a8b86677f032d?u=106534538">Git Essential Training: The Basics (2022)</a> – LinkedIn Learning
 
 ### Projects
-<a href="https://github.com/NikolaiKhriapov/ski-rental-shop">Booking Management Application for Ski Rental Shop</a><br/>
-Skills: Java, Spring Boot, Spring MVC, Spring Data JPA, PostgreSQL, HTML, Thymeleaf, CSS, Git<br/>
-Description:
-*   Maintenance of database of all equipment and its characteristics;
-*   Registration and management of bookings (client, riders, needed equipment, assigned equipment);
-*   Support for multiple languages;
-*   Support for multiple themes;
-*   Types of users: Admin (management of all equipment, bookings, clients, riders, assignment of equipment), Client (management of bookings and riders related to the client).
+#### <a href="https://github.com/NikolaiKhriapov/ski-rental-shop">Booking Management Application for Ski Rental Shop (Aug 2022 – Nov 2022)</a><br/>
+Skills: Java, Spring Framework, PostgreSQL, Maven, HTML, CSS, Thymeleaf, Git.<br/>
+Description: Web application for managing bookings at a ski rental shop. The application includes a registration and booking management system that handles client and rider information, as well as the required and assigned equipment. Support for multiple languages and themes to enhance user experience was implemented. Additionally, different user roles are used to ensure security and access control. The frontend of the application was created using HTML, Thymeleaf, and CSS.
+Role: Sole developer.
 
 ### Languages
 *   English – <a href='https://www.efset.org/cert/8Aomkp'>proficient (C2)</a>
-*   Chinese – HSK3 (intermediate)
+*   Chinese – intermediate (HSK3)
 *   Russian, Ukrainian – native
