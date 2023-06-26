@@ -30,7 +30,7 @@
 *   <a href="https://www.linkedin.com/learning/certificates/b87c9c62c817d20ba4cbed9a3056c1ab6254f696789b992e343a8b86677f032d?u=106534538">Git Essential Training: The Basics (2022)</a> – LinkedIn Learning
 
 ### Projects
-#### <a href="https://github.com/NikolaiKhriapov/ski-rental-shop">Booking Management Application for Ski Rental Shop (Aug 2022 – Nov 2022)</a><br/>
+<a href="https://github.com/NikolaiKhriapov/ski-rental-shop">Booking Management Application for Ski Rental Shop (Aug 2022 – Nov 2022)</a><br/>
 Skills: Java, Spring Framework, PostgreSQL, Maven, HTML, CSS, Thymeleaf, Git.<br/>
 Description: Web application for managing bookings at a ski rental shop. The application includes a registration and booking management system that handles client and rider information, as well as the required and assigned equipment. Support for multiple languages and themes to enhance user experience was implemented. Additionally, different user roles are used to ensure security and access control. The frontend of the application was created using HTML, Thymeleaf, and CSS.
 Role: Sole developer.
