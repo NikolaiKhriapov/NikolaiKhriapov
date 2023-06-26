@@ -16,7 +16,7 @@ Hi, I'm Nikolai 👋
 Java, Spring Framework (Boot, MVC, Data JPA, Security), RESTful APIs, Microservices, Unit & Integration Testing, PostgreSQL, Docker, Maven, RabbitMQ, Thymeleaf, HTML/CSS, Git, Python, JavaScript (React)
 
 ### Courses & Certificates
-*   <a href="https://certificates.epam.com/certificates/f51e6369-bb18-4f5d-b8ac-cb4f7988a32e">Java Web Development</a> (Jul 2022 – Dec 2022) – EPAM Systems (IT Fundamentals, Deep Dive into Java Development, Professional Java SE Development, Building Web Apps with Java, Web Development with Spring)
+*   <a href="https://certificates.epam.com/certificates/f51e6369-bb18-4f5d-b8ac-cb4f7988a32e">Java Web Development (Jul 2022 – Dec 2022)</a> – EPAM Systems (IT Fundamentals, Deep Dive into Java Development, Professional Java SE Development, Building Web Apps with Java, Web Development with Spring)
 *   <a href="https://www.linkedin.com/learning/certificates/7d4c4ae7529929870d49b11f3f1c19c142ac723dfeb34076834f631c98e6330f?u=106534538">Advanced Java Programming (2022)</a> – LinkedIn Learning
 *   <a href="https://www.linkedin.com/learning/certificates/f3b2791390e52674453fbce3c100d6e23dfae92e9ce5b6fa6d9d65cc9bf5b36f?u=106534538">Advanced Design Patterns: Design Principles (2022)</a> – LinkedIn Learning
 *   <a href="https://www.linkedin.com/learning/certificates/3b942b271cd35fbc036efcde96e452dba57a2686b6ae965d5f8fcb9ff48671df?u=106534538">Spring: Framework in Depth (2022)</a> – LinkedIn Learning
