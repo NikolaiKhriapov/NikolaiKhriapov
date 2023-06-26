@@ -1,4 +1,4 @@
-![image](https://github.com/NikolaiKhriapov/NikolaiKhriapov/assets/101793479/fbe07159-a0bf-4950-b793-57018c4d86d9)![image](https://github.com/NikolaiKhriapov/NikolaiKhriapov/assets/101793479/960e2338-c1cb-44ff-ae5b-b3edfc205483)![image](https://github.com/NikolaiKhriapov/NikolaiKhriapov/assets/101793479/f26f8bbc-e17d-438a-8415-70f4a7925c94)![image](https://github.com/NikolaiKhriapov/NikolaiKhriapov/assets/101793479/52510f06-de1c-4b3e-b0a3-d4e1224e664a)### Hi, I'm Nikolai 👋
+### Hi, I'm Nikolai 👋
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=NikolaiKhriapov&show_icons=true&count_private=true"><img
