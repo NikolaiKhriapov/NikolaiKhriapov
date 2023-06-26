@@ -1,4 +1,4 @@
-### Hi, I'm Nikolai 👋
+![image](https://github.com/NikolaiKhriapov/NikolaiKhriapov/assets/101793479/65eacda6-606d-43bc-864b-eb9023a86166)![image](https://github.com/NikolaiKhriapov/NikolaiKhriapov/assets/101793479/1546cb69-402f-430a-ba5e-3343665c2130)![image](https://github.com/NikolaiKhriapov/NikolaiKhriapov/assets/101793479/e016dc9e-2b94-4707-ac5b-683f78864e49)### Hi, I'm Nikolai 👋
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=NikolaiKhriapov&show_icons=true&count_private=true"><img
@@ -34,6 +34,11 @@
 Skills: Java, Spring Framework, PostgreSQL, Maven, HTML, CSS, Thymeleaf, Git.<br/>
 Description: Web application for managing bookings at a ski rental shop. The application includes a registration and booking management system that handles client and rider information, as well as the required and assigned equipment. Support for multiple languages and themes to enhance user experience was implemented. Additionally, different user roles are used to ensure security and access control. The frontend of the application was created using HTML, Thymeleaf, and CSS.
 Role: Sole developer.
+
+<a href="https://github.com/NikolaiKhriapov/carla-complex-and-modular-scenarios">Complex and Modular Scenarios for the CARLA Simulator</a> (Jan 2023 – present)<br/>
+Skills: Python, Git<br/>
+Description: In this project, the objective is to build traffic scenarios to train and evaluate the autonomous driving systems in CARLA using ScenarioRunner. The current scenarios are generally simple and atomic, this project aims to build more complex scenarios as well as create the framework to build complex scenarios from the small building blocks.
+
 
 ### Languages
 *   English – <a href='https://www.efset.org/cert/8Aomkp'>proficient (C2)</a>
