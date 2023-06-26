@@ -13,8 +13,7 @@ Hi, I'm Nikolai 👋
 </p>
 
 ### Skills
-*   Java, Spring Framework (Boot, MVC, Data JPA, Security), RESTful APIs, Microservices, Unit & Integration Testing, PostgreSQL, Docker, Maven, RabbitMQ, Thymeleaf, HTML/CSS, Git, Python, JavaScript (React)
-*   IntelliJ IDEA, Eclipse
+Java, Spring Framework (Boot, MVC, Data JPA, Security), RESTful APIs, Microservices, Unit & Integration Testing, PostgreSQL, Docker, Maven, RabbitMQ, Thymeleaf, HTML/CSS, Git, Python, JavaScript (React)
 
 ### Courses & Certificates
 *   <a href="https://certificates.epam.com/certificates/f51e6369-bb18-4f5d-b8ac-cb4f7988a32e">Java Web Development</a> (Jul 2022 – Dec 2022) – EPAM Systems (IT Fundamentals, Deep Dive into Java Development, Professional Java SE Development, Building Web Apps with Java, Web Development with Spring)
