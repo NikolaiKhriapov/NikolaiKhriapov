@@ -29,22 +29,22 @@ Java, Spring Framework (Boot, MVC, Data JPA, Security), RESTful APIs, Microservi
 *   <a href="https://www.linkedin.com/learning/certificates/b87c9c62c817d20ba4cbed9a3056c1ab6254f696789b992e343a8b86677f032d?u=106534538">Git Essential Training: The Basics (2022)</a> – LinkedIn Learning
 
 ### Experience
-Java Developer
-Junior IT Club
-Nov 2022 – Present · 8 mos
-Russia · Remote
-Skills: Java, Spring Framework, PostgreSQL, Swagger, Docker, Maven, Git.
+Java Developer<br/>
+Junior IT Club<br/>
+Nov 2022 – Present · 8 mos<br/>
+Russia · Remote<br/>
+Skills: Java, Spring Framework, PostgreSQL, Swagger, Docker, Maven, Git.<br/>
 
-Java Developer
-EPAM Systems · Internship
-Aug 2022 – Dec 2022 · 5 mos
-Kazakhstan · Remote
-Skills: Java, Spring Framework, PostgreSQL, Maven, HTML, CSS, Thymeleaf, Git.
+Java Developer<br/>
+EPAM Systems · Internship<br/>
+Aug 2022 – Dec 2022 · 5 mos<br/>
+Kazakhstan · Remote<br/>
+Skills: Java, Spring Framework, PostgreSQL, Maven, HTML, CSS, Thymeleaf, Git.<br/>
 
-English Translator
-Self-employed
-Nov 2018 - Nov 2022 · 4 yrs 1 mo 
-Skills: English
+English Translator<br/>
+Self-employed<br/>
+Nov 2018 - Nov 2022 · 4 yrs 1 mo<br/>
+Skills: English<br/>
 
 ### Projects
 <a href="https://github.com/recipetoria/recipetoria">Recipe Management Application</a> (Apr 2023 – present)<br/>
