@@ -15,24 +15,6 @@ Hi, I'm Nikolai 👋
 ### Skills
 Java, Spring Framework (Boot, MVC, Data JPA, Security), RESTful APIs, Microservices, Unit & Integration Testing, PostgreSQL, Docker, Maven, RabbitMQ, Thymeleaf, HTML/CSS, Git, Python, JavaScript (React)
 
-### Experience
-Java Developer<br/>
-Junior IT Club<br/>
-Nov 2022 – Present · 8 mos<br/>
-Russia · Remote<br/>
-Skills: Java, Spring Framework, PostgreSQL, Swagger, Docker, Maven, Git.<br/>
-
-Java Developer<br/>
-EPAM Systems · Internship<br/>
-Aug 2022 – Dec 2022 · 5 mos<br/>
-Kazakhstan · Remote<br/>
-Skills: Java, Spring Framework, PostgreSQL, Maven, HTML, CSS, Thymeleaf, Git.<br/>
-
-English Translator<br/>
-Self-employed<br/>
-Nov 2018 - Nov 2022 · 4 yrs 1 mo<br/>
-Skills: English<br/>
-
 ### Projects
 <a href="https://github.com/recipetoria/recipetoria">Recipe Management Application</a> (Apr 2023 – present)<br/>
 Skills: Java, Spring Framework, PostgreSQL, Swagger, Docker, Maven, Git.<br/>
