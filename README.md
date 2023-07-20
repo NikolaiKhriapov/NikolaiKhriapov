@@ -13,7 +13,7 @@ Hi, I'm Nikolai 👋
 </p>
 
 ### Skills
-Java, Spring Framework (Boot, MVC, Data JPA, Security), RESTful APIs, Microservices, Unit & Integration Testing, PostgreSQL, Docker, Maven, RabbitMQ, Thymeleaf, HTML/CSS, Git, Python, JavaScript (React)
+Java, Spring Framework (Boot, MVC, Data JPA, Security), RESTful APIs, Microservices, Unit & Integration Testing, PostgreSQL, Docker, Maven, RabbitMQ, Thymeleaf, HTML/CSS, Git, Python, React
 
 ### Projects
 <a href="https://github.com/recipetoria/recipetoria">Recipe Management Application</a><br/>
