@@ -16,7 +16,7 @@ Hi, I'm Nikolai 👋
 Java, Spring Framework, PostgreSQL, Redis, Flyway, Unit & Integration Testing, RabbitMQ, Docker, JavaScript, React, TypeScript, Next.js
 
 ### Projects
-<a href="https://github.com/NikolaiKhriapov/daily-lexika-backend">Daily Lexica (backend)</a> <a href="https://github.com/NikolaiKhriapov/daily-lexika-frontend">Daily Lexica (frontend)</a> (Jun 2023 – present)<br/>
+<a href="https://github.com/NikolaiKhriapov/daily-lexika-backend">Daily Lexica (backend)</a>, <a href="https://github.com/NikolaiKhriapov/daily-lexika-frontend">Daily Lexica (frontend)</a> (Jun 2023 – present)<br/>
 Skills: Java, Spring Framework, PostgreSQL, Docker, React, TypeScript, Next.js.<br/>
 Description: Latest ongoing individual project. Full-stack web application for practicing and mastering English and Chinese vocabulary using spaced-repetition approach. Applying backend development skills to create a robust web application and utilizing frontend development skills for the user interface. Gaining comprehensive experience in all stages of the product development.<br/>
 Role: Sole developer.
