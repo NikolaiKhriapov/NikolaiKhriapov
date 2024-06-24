@@ -1,4 +1,4 @@
-Hi, I'm Nikolai 👋
+![image](https://github.com/NikolaiKhriapov/NikolaiKhriapov/assets/101793479/f637dc4f-1429-465b-90a9-8ec3caf1436c)Hi, I'm Nikolai 👋
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=NikolaiKhriapov&show_icons=true&count_private=true"><img
@@ -45,6 +45,7 @@ Skills: English<br/>
 ### Projects
 <b>Daily Lexika (Jun 2023 – present)</b><br/>
 Website: <a href="https://dailylexika.com/">dailylexika.com</a><br/>
+Play Store: <a href="https://play.google.com/store/apps/details?id=com.dailylexika.twa">Daily Lexika</a><br/>
 Skills: Java, Spring Framework, PostgreSQL, React.js, Next.js, Redux.js.<br/>
 Description: Latest ongoing individual project. Full-stack web application for practicing and mastering English and Chinese vocabulary using spaced-repetition approach. Applying backend development skills to create a robust web application and utilizing frontend development skills for the user interface. Gaining comprehensive experience in all stages of the product development.<br/>
 Role: Sole developer.
