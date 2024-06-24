@@ -41,24 +41,24 @@ Nov 2018 - Nov 2022 · 4 yrs 1 mo<br/>
 Skills: English<br/>
 
 ### Projects
-<b>Daily Lexika (Jun 2023 – present)</b>
+<b>Daily Lexika (Jun 2023 – present)</b><br/>
 Website: <a href="https://dailylexika.com/">dailylexika.com</a><br/>
 Skills: Java, Spring Framework, PostgreSQL, React.js, Next.js, Redux.js.<br/>
 Description: Latest ongoing individual project. Full-stack web application for practicing and mastering English and Chinese vocabulary using spaced-repetition approach. Applying backend development skills to create a robust web application and utilizing frontend development skills for the user interface. Gaining comprehensive experience in all stages of the product development.<br/>
 Role: Sole developer.
 
-<b>Modular2Simple: A Tool for Modular Scenario Creation Based on the OpenSCENARIO Format (Jan 2023 – present)</b>
+<b>Modular2Simple: A Tool for Modular Scenario Creation Based on the OpenSCENARIO Format (Jan 2023 – present)</b><br/>
 <a href="https://github.com/NikolaiKhriapov/modular2simple">GitHub (project files)</a><br/>
 Skills: Java, Python.<br/>
 Description: In this project, the objective is to build traffic scenarios to train and evaluate the autonomous driving systems in CARLA using ScenarioRunner. The current scenarios are generally simple and atomic, this project aims to build more complex scenarios as well as create the framework to build complex scenarios from the small building blocks. 
 
 ### Education
-<b>Nanjing University of Aeronautics and Astronautics (Nanjing, China)</b>
+<b>Nanjing University of Aeronautics and Astronautics (Nanjing, China)</b><br/>
 Master’s degree, Software Engineering<br/>
 Sep 2022 – Apr 2025<br/>
 Grade: 4.4<br/>
 <br/>
-<b>National Aerospace University “Kharkiv Aviation Institute” (Kharkiv, Ukraine)</b>
+<b>National Aerospace University “Kharkiv Aviation Institute” (Kharkiv, Ukraine)</b><br/>
 Bachelor’s degree, Aircraft and Rocket Construction and Design<br/>
 Sep 2012 – Jun 2016<br/>
 Grade: 4.3
