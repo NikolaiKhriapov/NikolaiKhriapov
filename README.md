@@ -16,6 +16,30 @@ Hi, I'm Nikolai 👋
 ### Skills
 Java, Spring Framework, PostgreSQL, Flyway, Redis, JavaScript, TypeScript, React.js, Next.js, Redux.js, Docker
 
+### Experience
+<b>Full-Stack Developer</b><br/>
+Freelbee<br/>
+Oct 2023 – Present · 9 mos<br/>
+Russia · Remote<br/>
+Skills: Java, Spring Framework, PostgreSQL, Flyway, Redis, Docker, JavaScript, TypeScript, React.js, Next.js, Redux.js.<br/>
+
+<b>Kotlin Developer</b><br/>
+Prometeo Chain System · Internship<br/>
+Aug 2023 – Sep 2023 · 2 mos<br/>
+Kazakhstan · Remote<br/>
+Skills: Kotlin, Spring Framework, PostgreSQL, Flyway, Redis, Docker.<br/>
+
+<b>Java Developer</b><br/>
+EPAM Systems · Internship<br/>
+Aug 2022 – Dec 2022 · 5 mos<br/>
+Kazakhstan · Remote<br/>
+Skills: Java, Spring Framework, PostgreSQL, Thymeleaf.<br/>
+
+<b>English Translator</b><br/>
+Self-employed<br/>
+Nov 2018 - Nov 2022 · 4 yrs 1 mo<br/>
+Skills: English<br/>
+
 ### Projects
 #### Daily Lexika (Jun 2023 – present)<br/>
 Website: <a href="https://dailylexika.com/">dailylexika.com</a><br/>
