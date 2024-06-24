@@ -17,7 +17,7 @@ Hi, I'm Nikolai 👋
 Java, Spring Framework, PostgreSQL, Flyway, Redis, JavaScript, TypeScript, React.js, Next.js, Redux.js, Docker
 
 ### Projects
-# Daily Lexika (Jun 2023 – present)<br/>
+##### Daily Lexika (Jun 2023 – present)<br/>
 Website: <a href="https://dailylexika.com/">dailylexika.com</a><br/>
 Skills: Java, Spring Framework, PostgreSQL, React.js, Next.js, Redux.js.<br/>
 Description: Latest ongoing individual project. Full-stack web application for practicing and mastering English and Chinese vocabulary using spaced-repetition approach. Applying backend development skills to create a robust web application and utilizing frontend development skills for the user interface. Gaining comprehensive experience in all stages of the product development.<br/>
