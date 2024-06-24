@@ -17,8 +17,8 @@ Hi, I'm Nikolai 👋
 Java, Spring Framework, PostgreSQL, Flyway, Redis, JavaScript, TypeScript, React.js, Next.js, Redux.js, Docker
 
 ### Projects
-<a href="https://dailylexika.com/">Daily Lexika</a> (Jun 2023 – present)<br/>
-Website: <a href="https://dailylexika.com/">dailylexika.com</a>
+Daily Lexika (Jun 2023 – present)<br/>
+Website: <a href="https://dailylexika.com/">dailylexika.com</a><br/>
 Skills: Java, Spring Framework, PostgreSQL, React.js, Next.js, Redux.js.<br/>
 Description: Latest ongoing individual project. Full-stack web application for practicing and mastering English and Chinese vocabulary using spaced-repetition approach. Applying backend development skills to create a robust web application and utilizing frontend development skills for the user interface. Gaining comprehensive experience in all stages of the product development.
 Role: Sole developer.
@@ -28,13 +28,14 @@ Skills: Java, Python.<br/>
 Description: In this project, the objective is to build traffic scenarios to train and evaluate the autonomous driving systems in CARLA using ScenarioRunner. The current scenarios are generally simple and atomic, this project aims to build more complex scenarios as well as create the framework to build complex scenarios from the small building blocks. 
 
 ### Education
-Nanjing University of Aeronautics and Astronautics (Nanjing, China)
-Master’s degree, Software Engineering
-Sep 2022 – Apr 2025
-Grade: 4.4
-National Aerospace University “Kharkiv Aviation Institute” (Kharkiv, Ukraine)
-Bachelor’s degree, Aircraft and Rocket Construction and Design
-Sep 2012 – Jun 2016
+Nanjing University of Aeronautics and Astronautics (Nanjing, China)<br/>
+Master’s degree, Software Engineering<br/>
+Sep 2022 – Apr 2025<br/>
+Grade: 4.4<br/>
+<br/>
+National Aerospace University “Kharkiv Aviation Institute” (Kharkiv, Ukraine)<br/>
+Bachelor’s degree, Aircraft and Rocket Construction and Design<br/>
+Sep 2012 – Jun 2016<br/>
 Grade: 4.3
 
 ### Languages
