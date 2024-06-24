@@ -13,6 +13,8 @@ Hi, I'm Nikolai 👋
    📫 LinkedIn: <a href='https://www.linkedin.com/in/khriapov-nikolai/'>linkedin.com/in/khriapov-nikolai</a>
 </p>
 
+## Full-Stack Java React Developer
+
 ### Skills
 Java, Spring Framework, PostgreSQL, Flyway, Redis, JavaScript, TypeScript, React.js, Next.js, Redux.js, Docker
 
