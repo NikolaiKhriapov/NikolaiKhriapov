@@ -17,13 +17,13 @@ Hi, I'm Nikolai 👋
 Java, Spring Framework, PostgreSQL, Flyway, Redis, JavaScript, TypeScript, React.js, Next.js, Redux.js, Docker
 
 ### Projects
-##### Daily Lexika (Jun 2023 – present)<br/>
+#### Daily Lexika (Jun 2023 – present)<br/>
 Website: <a href="https://dailylexika.com/">dailylexika.com</a><br/>
 Skills: Java, Spring Framework, PostgreSQL, React.js, Next.js, Redux.js.<br/>
 Description: Latest ongoing individual project. Full-stack web application for practicing and mastering English and Chinese vocabulary using spaced-repetition approach. Applying backend development skills to create a robust web application and utilizing frontend development skills for the user interface. Gaining comprehensive experience in all stages of the product development.<br/>
 Role: Sole developer.
 
-Modular2Simple: A Tool for Modular Scenario Creation Based on the OpenSCENARIO Format (Jan 2023 – present)<br/>
+#### Modular2Simple: A Tool for Modular Scenario Creation Based on the OpenSCENARIO Format (Jan 2023 – present)<br/>
 <a href="https://github.com/NikolaiKhriapov/modular2simple">GitHub (project files)</a><br/>
 Skills: Java, Python.<br/>
 Description: In this project, the objective is to build traffic scenarios to train and evaluate the autonomous driving systems in CARLA using ScenarioRunner. The current scenarios are generally simple and atomic, this project aims to build more complex scenarios as well as create the framework to build complex scenarios from the small building blocks. 
