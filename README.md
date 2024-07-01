@@ -21,7 +21,7 @@ Java, Spring Framework, PostgreSQL, Flyway, Redis, JavaScript, TypeScript, React
 ### Experience
 <b>Full-Stack Developer</b><br/>
 Freelbee<br/>
-Oct 2023 – Present · 9 mos<br/>
+Oct 2023 – Present · 10 mos<br/>
 Russia · Remote<br/>
 Skills: Java, Spring Framework, PostgreSQL, Flyway, Redis, Docker, JavaScript, TypeScript, React.js, Next.js, Redux.js.<br/>
 
