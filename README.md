@@ -1,15 +1,10 @@
-<h2 align='center>Nikolai Khriapov</p>
+<h2 align='center'>Nikolai Khriapov</h2>
 
 <p align='center'>
   <a href="mailto:nikolai.khriapov@icloud.com">nikolai.khriapov@icloud.com</a>
   <a href="https://www.linkedin.com/in/khriapov-nikolai">linkedin.com/in/khriapov-nikolai</a>
   <a href="https://github.com/NikolaiKhriapov">github.com/NikolaiKhriapov</a>
   <a href="https://t.me/nikolai_khriapov">t.me/nikolai_khriapov</a>
-</p>
-
-<p align='center'>
-   📫 My e-mail: <a href='mailto:kolyakhryapov@gmail.com'>kolyakhryapov@gmail.com</a><br/>
-   📫 LinkedIn: <a href='https://www.linkedin.com/in/khriapov-nikolai/'>linkedin.com/in/khriapov-nikolai</a>
 </p>
 
 ## Full-Stack Software Development Engineer
