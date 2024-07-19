@@ -1,13 +1,11 @@
 <h2 align='center'>Nikolai Khriapov</h2>
 
 <p align='center'>
-  <a href="mailto:nikolai.khriapov@icloud.com">nikolai.khriapov@icloud.com</a>
-  <a href="https://www.linkedin.com/in/khriapov-nikolai">linkedin.com/in/khriapov-nikolai</a>
-  <a href="https://github.com/NikolaiKhriapov">github.com/NikolaiKhriapov</a>
+  <a href="mailto:nikolai.khriapov@icloud.com">nikolai.khriapov@icloud.com</a><br/>
+  <a href="https://www.linkedin.com/in/khriapov-nikolai">linkedin.com/in/khriapov-nikolai</a><br/>
+  <a href="https://github.com/NikolaiKhriapov">github.com/NikolaiKhriapov</a><br/>
   <a href="https://t.me/nikolai_khriapov">t.me/nikolai_khriapov</a>
 </p>
-
-## Full-Stack Software Development Engineer
 
 ### Technical Skills
 <b>Backend</b>: Java, Spring Framework, PostgreSQL, Redis, Flyway.<br/>
