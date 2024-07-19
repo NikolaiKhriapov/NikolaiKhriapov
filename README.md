@@ -1,4 +1,4 @@
-<h2 align='center'>Nikolai Khriapov</h2>
+<h1 align='center'>Nikolai Khriapov</h2>
 
 <p align='center'>
   <a href="mailto:nikolai.khriapov@icloud.com">nikolai.khriapov@icloud.com</a>
@@ -7,12 +7,12 @@
   <a href="https://t.me/nikolai_khriapov">t.me/nikolai_khriapov</a>
 </p>
 
-### Technical Skills
+<h2>Technical Skills</h2>
 <b>Backend</b>: Java, Spring Framework, PostgreSQL, Redis, Flyway.<br/>
 <b>Frontend</b>: JavaScript, TypeScript, React.js, Next.js, Redux.js, Nx.<br/>
 <b>Other</b>: Docker, IntelliJ IDEA, WebStorm, DataGrip, Git, Postman.<br/>
 
-### Work Experience
+<h2>Work Experience</h2>
 <b>Full-Stack Software Development Engineer</b><br/>
 Freelbee<br/>
 Oct 2023 – Present · 10 mos<br/>
@@ -45,7 +45,7 @@ Self-employed<br/>
 Nov 2018 - Nov 2022 · 4 yrs 1 mo<br/>
 Skills: English<br/>
 
-### Projects
+<h2>Projects</h2>
 <b>Daily Lexika</b> (Java, Spring Framework, PostgreSQL, Flyway, JavaScript, TypeScript, React.js, Next.js, Redux.js, Nx)<br/>
 Links: website: <a href="https://dailylexika.com/">dailylexika.com</a>, Play Store: <a href="https://play.google.com/store/apps/details?id=com.dailylexika.twa">Daily Lexika</a><br/>
 •	Sole developer, latest ongoing individual project.<br/>
@@ -60,7 +60,7 @@ Links: website: <a href="https://dailylexika.com/">dailylexika.com</a>, Play Sto
 GitHub repository: <a href="https://github.com/NikolaiKhriapov/modular2simple">github.com/NikolaiKhriapov/modular2simple</a>, official CARLA simulator repository: <a href="https://github.com/carla-simulator">github.com/carla-simulator</a><br/>
 •	Developed a framework to simplify the creation of complex Autonomous Driving System (ADS) scenarios, ensuring seamless integration with the CARLA simulator and compatibility with any software supporting the OpenSCENARIO format, which allows for the creation of modular scenarios by combining multiple simple or modular scenarios, significantly reducing the total lines of code required and improving scenario management.<br/>
 
-### Education
+<h2>Education</h2>
 <b>Nanjing University of Aeronautics and Astronautics</b> (Nanjing, China)<br/>
 Master’s Degree in Computer Science and Software Engineering (Chinese Government Scholarship)<br/>
 Sep 2022 – Apr 2025<br/>
@@ -71,7 +71,7 @@ Bachelor’s Degree in Aircraft and Rocket Construction and Design (Ukrainian Go
 Sep 2012 – Jun 2016<br/>
 Grade: 4.3/5
 
-### Languages
+<h2>Languages</h2>
 *   English – <a href='https://www.efset.org/cert/8Aomkp'>proficient (C2)</a>
 *   Chinese – intermediate (HSK3)
 *   Russian, Ukrainian – native
