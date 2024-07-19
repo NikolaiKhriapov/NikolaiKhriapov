@@ -1,11 +1,10 @@
-![image](https://github.com/user-attachments/assets/05771eda-fd2c-4ee6-99ab-65ae79635c03)![image](https://github.com/user-attachments/assets/c3c68370-441c-4f74-9fce-d6da29018963)![image](https://github.com/user-attachments/assets/f46f0489-0e0a-4ea9-8dfc-a6a32173f6de)![image](https://github.com/user-attachments/assets/618c384b-05df-4a8f-9eae-04ead7e456c2)![image](https://github.com/user-attachments/assets/3161bc57-ff24-4c2c-adfb-376da27d3b17)![image](https://github.com/user-attachments/assets/0929fc01-9f34-470e-8521-56acdb1693b6)![image](https://github.com/user-attachments/assets/6b4f0305-eb26-49c9-ac37-7e36cc721e6a)![image](https://github.com/user-attachments/assets/80e568da-e553-4c93-9e69-ecc8773293d2)![image](https://github.com/user-attachments/assets/1ff72ede-7dbe-449f-90da-9b44addcb4b8)![image](https://github.com/user-attachments/assets/f8231906-25f3-4e59-9047-acb755df31f4)Hi, I'm Nikolai 👋
+<h2 align='center>Nikolai Khriapov</p>
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=NikolaiKhriapov&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=NikolaiKhriapov&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/NikolaiKhriapov/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiKhriapov&layout=compact"/></a>
+  <a href="mailto:nikolai.khriapov@icloud.com">nikolai.khriapov@icloud.com</a>
+  <a href="https://www.linkedin.com/in/khriapov-nikolai">linkedin.com/in/khriapov-nikolai</a>
+  <a href="https://github.com/NikolaiKhriapov">github.com/NikolaiKhriapov</a>
+  <a href="https://t.me/nikolai_khriapov">t.me/nikolai_khriapov</a>
 </p>
 
 <p align='center'>
