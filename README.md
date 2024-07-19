@@ -72,6 +72,6 @@ Sep 2012 – Jun 2016<br/>
 Grade: 4.3/5
 
 <h2>Languages</h2>
-*   English – <a href='https://www.efset.org/cert/8Aomkp'>proficient (C2)</a>
-*   Chinese – intermediate (HSK3)
+*   English – <a href='https://www.efset.org/cert/8Aomkp'>proficient (C2)</a><br/>
+*   Chinese – intermediate (HSK3)<br/>
 *   Russian, Ukrainian – native
