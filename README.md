@@ -1,9 +1,9 @@
 <h2 align='center'>Nikolai Khriapov</h2>
 
 <p align='center'>
-  <a href="mailto:nikolai.khriapov@icloud.com">nikolai.khriapov@icloud.com</a><br/>
-  <a href="https://www.linkedin.com/in/khriapov-nikolai">linkedin.com/in/khriapov-nikolai</a><br/>
-  <a href="https://github.com/NikolaiKhriapov">github.com/NikolaiKhriapov</a><br/>
+  <a href="mailto:nikolai.khriapov@icloud.com">nikolai.khriapov@icloud.com</a>    
+  <a href="https://www.linkedin.com/in/khriapov-nikolai">linkedin.com/in/khriapov-nikolai</a>    
+  <a href="https://github.com/NikolaiKhriapov">github.com/NikolaiKhriapov</a>    
   <a href="https://t.me/nikolai_khriapov">t.me/nikolai_khriapov</a>
 </p>
 
