@@ -46,8 +46,8 @@ Nov 2018 - Nov 2022 · 4 yrs 1 mo<br/>
 Skills: English<br/>
 
 ### Projects
-<b>Daily Lexika (Java, Spring Framework, PostgreSQL, Flyway, JavaScript, TypeScript, React.js, Next.js, Redux.js, Nx)</b><br/>
-Links: website: <a href="https://dailylexika.com/">dailylexika.com</a><br/>, Play Store: <a href="https://play.google.com/store/apps/details?id=com.dailylexika.twa">Daily Lexika</a><br/>
+<b>Daily Lexika</b> (Java, Spring Framework, PostgreSQL, Flyway, JavaScript, TypeScript, React.js, Next.js, Redux.js, Nx)<br/>
+Links: website: <a href="https://dailylexika.com/">dailylexika.com</a>, Play Store: <a href="https://play.google.com/store/apps/details?id=com.dailylexika.twa">Daily Lexika</a><br/>
 •	Sole developer, latest ongoing individual project.<br/>
 •	Architected and developed a full-stack web application to aid in practicing and mastering English and Chinese vocabulary using spaced-repetition approach.<br/>
 •	Developed robust backend services; structured the project as a multi-module system to enhance modularity and maintainability.<br/>
@@ -56,17 +56,17 @@ Links: website: <a href="https://dailylexika.com/">dailylexika.com</a><br/>, Pla
 •	Published as a Progressive Web Application (PWA) on the Play Store, making it easily accessible to a wide audience.<br/>
 •	Gained comprehensive experience in all stages of the product development lifecycle, from ideation and design to deployment and iterative improvement based on user feedback.<br/>
 
-<b>Modular2Simple: A Tool for Modular Scenario Creation Based on the OpenSCENARIO Format (Java, Python)</b><br/>
+<b>Modular2Simple: A Tool for Modular Scenario Creation Based on the OpenSCENARIO Format</b> (Java, Python)<br/>
 GitHub repository: <a href="https://github.com/NikolaiKhriapov/modular2simple">github.com/NikolaiKhriapov/modular2simple</a>, official CARLA simulator repository: <a href="https://github.com/carla-simulator">github.com/carla-simulator</a><br/>
 •	Developed a framework to simplify the creation of complex Autonomous Driving System (ADS) scenarios, ensuring seamless integration with the CARLA simulator and compatibility with any software supporting the OpenSCENARIO format, which allows for the creation of modular scenarios by combining multiple simple or modular scenarios, significantly reducing the total lines of code required and improving scenario management.<br/>
 
 ### Education
-<b>Nanjing University of Aeronautics and Astronautics (Nanjing, China)</b><br/>
+<b>Nanjing University of Aeronautics and Astronautics</b> (Nanjing, China)<br/>
 Master’s Degree in Computer Science and Software Engineering (Chinese Government Scholarship)<br/>
 Sep 2022 – Apr 2025<br/>
 Grade: 4.4/5<br/>
 <br/>
-<b>National Aerospace University “Kharkiv Aviation Institute” (Kharkiv, Ukraine)</b><br/>
+<b>National Aerospace University “Kharkiv Aviation Institute”</b> (Kharkiv, Ukraine)<br/>
 Bachelor’s Degree in Aircraft and Rocket Construction and Design (Ukrainian Government Scholarship)<br/>
 Sep 2012 – Jun 2016<br/>
 Grade: 4.3/5
