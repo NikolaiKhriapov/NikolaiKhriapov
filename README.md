@@ -23,7 +23,7 @@ Russia · Remote<br/>
 •	Contributed significantly to the design and development of RESTful APIs.<br/>
 •	Created and maintained multiple frontend pages using React.js, Next.js, and Redux.js.<br/>
 •	Implemented multilanguage support to the backend, improving accessibility and user experience for global audience.<br/>
-•	Contributed significantly to the migration from a monolithic to a modular architecture, resulting in scalability and maintainability.<br/>
+•	Contributed significantly to the migration from a monolithic to a modular architecture, resulting in scalability and maintainability.<br/><br/>
 
 <b>Backend Software Development Engineer Intern</b><br/>
 Prometeo Chain System<br/>
@@ -54,7 +54,7 @@ Links: website: <a href="https://dailylexika.com/">dailylexika.com</a>, Play Sto
 •	Designed and developed an intuitive, responsive user interface using React.js, Next.js, and Redux.js.<br/>
 •	Deployed the application to Google Cloud.<br/>
 •	Published as a Progressive Web Application (PWA) on the Play Store, making it easily accessible to a wide audience.<br/>
-•	Gained comprehensive experience in all stages of the product development lifecycle, from ideation and design to deployment and iterative improvement based on user feedback.<br/>
+•	Gained comprehensive experience in all stages of the product development lifecycle, from ideation and design to deployment and iterative improvement based on user feedback.<br/><br/>
 
 <b>Modular2Simple: A Tool for Modular Scenario Creation Based on the OpenSCENARIO Format</b> (Java, Python)<br/>
 GitHub repository: <a href="https://github.com/NikolaiKhriapov/modular2simple">github.com/NikolaiKhriapov/modular2simple</a>, official CARLA simulator repository: <a href="https://github.com/carla-simulator">github.com/carla-simulator</a><br/>
@@ -64,8 +64,8 @@ GitHub repository: <a href="https://github.com/NikolaiKhriapov/modular2simple">g
 <b>Nanjing University of Aeronautics and Astronautics</b> (Nanjing, China)<br/>
 Master’s Degree in Computer Science and Software Engineering (Chinese Government Scholarship)<br/>
 Sep 2022 – Apr 2025<br/>
-Grade: 4.4/5<br/>
-<br/>
+Grade: 4.4/5<br/><br/>
+
 <b>National Aerospace University “Kharkiv Aviation Institute”</b> (Kharkiv, Ukraine)<br/>
 Bachelor’s Degree in Aircraft and Rocket Construction and Design (Ukrainian Government Scholarship)<br/>
 Sep 2012 – Jun 2016<br/>
