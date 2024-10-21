@@ -15,7 +15,7 @@
 <h2>Work Experience</h2>
 <b>Full-Stack Software Development Engineer</b><br/>
 Freelbee<br/>
-Oct 2023 – Present · 10 mos<br/>
+Oct 2023 – Present<br/>
 Russia · Remote<br/>
 •	Skills: Java, Spring Framework, PostgreSQL, Redis, Flyway, JavaScript, TypeScript, React.js, Next.js, Redux.js, Nx, Docker.<br/>
 •	Integrated a third-party electronic signature provider.<br/>
