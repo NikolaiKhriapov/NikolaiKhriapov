@@ -10,7 +10,7 @@
 <h2>Technical Skills</h2>
 <b>Backend</b>: Java, Spring Framework, PostgreSQL, Redis.<br/>
 <b>Frontend</b>: JavaScript, TypeScript, React.js, Next.js, Redux.js, Nx.<br/>
-<b>Other</b>: Docker.<br/>
+<b>Other</b>: Docker.<br/><br/>
 
 <h2>Work Experience</h2>
 <h3>Freelbee</h3>
@@ -47,7 +47,7 @@ Kazakhstan · Remote<br/>
 <h3>English Translator</h3>
 Self-employed<br/>
 Nov 2018 - Nov 2022 · 4 yrs 1 mo<br/>
-Skills: English<br/>
+Skills: English<br/><br/>
 
 <h2>Projects</h2>
 <b>Modular2Simple: A Tool for Modular Scenario Creation Based on the OpenSCENARIO Format</b> (Java, Python)<br/>
