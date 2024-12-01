@@ -1,4 +1,4 @@
-<h1 align='center'>Nikolai Khriapov</h2>
+![image](https://github.com/user-attachments/assets/881c20a7-028c-4d9c-92f9-c0a89d3fea29)<h1 align='center'>Nikolai Khriapov</h2>
 
 <p align='center'>
   <a href="mailto:nikolai.khriapov@icloud.com">nikolai.khriapov@icloud.com</a>
@@ -8,24 +8,28 @@
 </p>
 
 <h2>Technical Skills</h2>
-<b>Backend</b>: Java, Spring Framework, PostgreSQL, Redis, Flyway.<br/>
+<b>Backend</b>: Java, Spring Framework, PostgreSQL, Redis.<br/>
 <b>Frontend</b>: JavaScript, TypeScript, React.js, Next.js, Redux.js, Nx.<br/>
-<b>Other</b>: Docker, IntelliJ IDEA, WebStorm, DataGrip, Git, Postman.<br/>
+<b>Other</b>: Docker.<br/>
 
 <h2>Work Experience</h2>
-<b>Full-Stack Software Development Engineer</b><br/>
-Freelbee<br/>
-Oct 2023 – Present<br/>
+<h3>Freelbee</h3>
 Russia · Remote<br/>
-•	Skills: Java, Spring Framework, PostgreSQL, Redis, Flyway, JavaScript, TypeScript, React.js, Next.js, Redux.js, Nx, Docker.<br/>
-•	Integrated a third-party electronic signature provider.<br/>
-•	Integrated invoices handling functionality.<br/>
-•	Contributed significantly to the design and development of RESTful APIs.<br/>
-•	Created and maintained multiple frontend pages using React.js, Next.js, and Redux.js.<br/>
-•	Implemented multilanguage support to the backend, improving accessibility and user experience for global audience.<br/>
-•	Contributed significantly to the migration from a monolithic to a modular architecture, resulting in scalability and maintainability.<br/><br/>
+<h3>Middle+ Full-Stack Software Engineer</h3>
+Aug 2024 – Present<br/>
+•	Assumed the role of Team/Tech Lead, mentoring three developers and enhancing code quality through regular reviews.<br/>
+•	Contributed significantly to the design and implementation of scalable technical architectures for backend and frontend.<br/>
+•	Developed a subscription management service, improving user engagement and operational efficiency.<br/>
+•	Developed a power of attorney management service, including integration with the Machine-Readable PoA Registry.<br/>
+•	Integrated the Federal Tax System API, automating compliance processes and reducing manual effort.<br/>
+<h3>Junior Full-Stack Software Engineer</h3>
+Oct 2023 – Jul 2024<br/>
+•	Built and maintained multiple responsive web interfaces using React.js, Next.js, and Redux.js.
+•	Implemented backend multilingual support, improving global accessibility.
+•	Integrated third-party electronic signature and invoice-handling functionalities.
+•	Contributed significantly to the migration from monolithic to modular architecture, improving scalability and maintainability.
 
-<b>Backend Software Development Engineer Intern</b><br/>
+<h3>Backend Software Development Engineer Intern</h3>
 Prometeo Chain System<br/>
 Aug 2023 – Sep 2023 · 2 mos<br/>
 Kazakhstan · Remote<br/>
@@ -33,14 +37,14 @@ Kazakhstan · Remote<br/>
 •	Integrated Redis into JWT token management, resulting in a notable reduction in token handling latency.<br/>
 •	Developed and optimized RESTful APIs, contributing to the overall system architecture.<br/>
 
-<b>Backend Software Development Engineer Intern</b><br/>
+<h3>Backend Software Development Engineer Intern</h3>
 EPAM Systems<br/>
 Aug 2022 – Dec 2022 · 5 mos<br/>
 Kazakhstan · Remote<br/>
 •	Skills: Java, Spring Framework, PostgreSQL, Flyway, Thymeleaf.<br/>
 •	Successfully completed an intensive Java Web Development training program, resulting in a comprehensive project and a certification.<br/>
 
-<b>English Translator</b><br/>
+<h3>English Translator</h3><br/>
 Self-employed<br/>
 Nov 2018 - Nov 2022 · 4 yrs 1 mo<br/>
 Skills: English<br/>
