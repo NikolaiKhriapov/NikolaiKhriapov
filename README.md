@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/881c20a7-028c-4d9c-92f9-c0a89d3fea29)<h1 align='center'>Nikolai Khriapov</h2>
+![image](https://github.com/user-attachments/assets/44cb4aa9-73f0-4a13-b396-18fc1da7964c)![image](https://github.com/user-attachments/assets/5ebda17a-1652-4d80-b3c4-4c4a9692ccd1)![image](https://github.com/user-attachments/assets/4badf639-56a4-4344-bdd6-86150453c623)![image](https://github.com/user-attachments/assets/881c20a7-028c-4d9c-92f9-c0a89d3fea29)<h1 align='center'>Nikolai Khriapov</h2>
 
 <p align='center'>
   <a href="mailto:nikolai.khriapov@icloud.com">nikolai.khriapov@icloud.com</a>
@@ -24,10 +24,10 @@ Aug 2024 – Present<br/>
 •	Integrated the Federal Tax System API, automating compliance processes and reducing manual effort.<br/>
 <h3>Junior Full-Stack Software Engineer</h3>
 Oct 2023 – Jul 2024<br/>
-•	Built and maintained multiple responsive web interfaces using React.js, Next.js, and Redux.js.
-•	Implemented backend multilingual support, improving global accessibility.
-•	Integrated third-party electronic signature and invoice-handling functionalities.
-•	Contributed significantly to the migration from monolithic to modular architecture, improving scalability and maintainability.
+•	Built and maintained multiple responsive web interfaces using React.js, Next.js, and Redux.js.<br/>
+•	Implemented backend multilingual support, improving global accessibility.<br/>
+•	Integrated third-party electronic signature and invoice-handling functionalities.<br/>
+•	Contributed significantly to the migration from monolithic to modular architecture, improving scalability and maintainability.<br/>
 
 <h3>Backend Software Development Engineer Intern</h3>
 Prometeo Chain System<br/>
@@ -50,6 +50,11 @@ Nov 2018 - Nov 2022 · 4 yrs 1 mo<br/>
 Skills: English<br/>
 
 <h2>Projects</h2>
+<b>Modular2Simple: A Tool for Modular Scenario Creation Based on the OpenSCENARIO Format</b> (Java, Python)<br/>
+GitHub repository: <a href="https://github.com/NikolaiKhriapov/modular2simple">github.com/NikolaiKhriapov/modular2simple</a>, official CARLA simulator repository: <a href="https://github.com/carla-simulator">github.com/carla-simulator</a><br/>
+•	Developed a framework for modular scenario creation in Autonomous Driving Systems, compatible with any software supporting the OpenSCENARIO format, reducing code complexity by approximately 50% and improving scenario management.<br/>
+•	Presented the research paper "Modular2Simple: A Tool for Modular Scenario Creation Based on the OpenSCENARIO Format" at CMAAE 2024 (publication pending).<br/>
+
 <b>Daily Lexika</b> (Java, Spring Framework, PostgreSQL, Flyway, JavaScript, TypeScript, React.js, Next.js, Redux.js, Nx)<br/>
 Links: website: <a href="https://dailylexika.com/">dailylexika.com</a>, Play Store: <a href="https://play.google.com/store/apps/details?id=com.dailylexika.twa">Daily Lexika</a><br/>
 •	Sole developer, latest ongoing individual project.<br/>
@@ -58,20 +63,16 @@ Links: website: <a href="https://dailylexika.com/">dailylexika.com</a>, Play Sto
 •	Designed and developed an intuitive, responsive user interface using React.js, Next.js, and Redux.js.<br/>
 •	Deployed the application to Google Cloud.<br/>
 •	Published as a Progressive Web Application (PWA) on the Play Store, making it easily accessible to a wide audience.<br/>
-•	Gained comprehensive experience in all stages of the product development lifecycle, from ideation and design to deployment and iterative improvement based on user feedback.<br/><br/>
-
-<b>Modular2Simple: A Tool for Modular Scenario Creation Based on the OpenSCENARIO Format</b> (Java, Python)<br/>
-GitHub repository: <a href="https://github.com/NikolaiKhriapov/modular2simple">github.com/NikolaiKhriapov/modular2simple</a>, official CARLA simulator repository: <a href="https://github.com/carla-simulator">github.com/carla-simulator</a><br/>
-•	Developed a framework to simplify the creation of complex Autonomous Driving System (ADS) scenarios, ensuring seamless integration with the CARLA simulator and compatibility with any software supporting the OpenSCENARIO format, which allows for the creation of modular scenarios by combining multiple simple or modular scenarios, significantly reducing the total lines of code required and improving scenario management.<br/>
+•	Gained comprehensive experience in all stages of the product development lifecycle, from ideation to iterative improvement.<br/><br/>
 
 <h2>Education</h2>
 <b>Nanjing University of Aeronautics and Astronautics</b> (Nanjing, China)<br/>
-Master’s Degree in Computer Science and Software Engineering (Chinese Government Scholarship)<br/>
+Master’s Degree in Computer Science and Software Engineering (fully funded by the Chinese Government Scholarship)<br/>
 Sep 2022 – Apr 2025<br/>
 Grade: 4.4/5<br/><br/>
 
 <b>National Aerospace University “Kharkiv Aviation Institute”</b> (Kharkiv, Ukraine)<br/>
-Bachelor’s Degree in Aircraft and Rocket Construction and Design (Ukrainian Government Scholarship)<br/>
+Bachelor’s Degree in Aircraft and Rocket Construction and Design (fully funded by the Ukrainian Government Scholarship)<br/>
 Sep 2012 – Jun 2016<br/>
 Grade: 4.3/5
 
