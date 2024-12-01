@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/44cb4aa9-73f0-4a13-b396-18fc1da7964c)![image](https://github.com/user-attachments/assets/5ebda17a-1652-4d80-b3c4-4c4a9692ccd1)![image](https://github.com/user-attachments/assets/4badf639-56a4-4344-bdd6-86150453c623)![image](https://github.com/user-attachments/assets/881c20a7-028c-4d9c-92f9-c0a89d3fea29)<h1 align='center'>Nikolai Khriapov</h2>
+![image](https://github.com/user-attachments/assets/15e112fc-d2bf-46f3-b22f-adb9fd29b386)![image](https://github.com/user-attachments/assets/e1e510b3-a763-42b0-884a-c1ebd186809e)![image](https://github.com/user-attachments/assets/44cb4aa9-73f0-4a13-b396-18fc1da7964c)![image](https://github.com/user-attachments/assets/5ebda17a-1652-4d80-b3c4-4c4a9692ccd1)![image](https://github.com/user-attachments/assets/4badf639-56a4-4344-bdd6-86150453c623)![image](https://github.com/user-attachments/assets/881c20a7-028c-4d9c-92f9-c0a89d3fea29)<h1 align='center'>Nikolai Khriapov</h2>
 
 <p align='center'>
   <a href="mailto:nikolai.khriapov@icloud.com">nikolai.khriapov@icloud.com</a>
@@ -29,20 +29,20 @@ Oct 2023 – Jul 2024<br/>
 •	Integrated third-party electronic signature and invoice-handling functionalities.<br/>
 •	Contributed significantly to the migration from monolithic to modular architecture, improving scalability and maintainability.<br/>
 
-<h3>Backend Software Development Engineer Intern</h3>
+<h3>Backend Software Engineer Intern</h3>
 Prometeo Chain System<br/>
 Aug 2023 – Sep 2023 · 2 mos<br/>
 Kazakhstan · Remote<br/>
-•	Skills: Kotlin, Spring Framework, PostgreSQL, Redis, Flyway, Docker.<br/>
-•	Integrated Redis into JWT token management, resulting in a notable reduction in token handling latency.<br/>
+•	Optimized token management, reducing handling latency.<br/>
 •	Developed and optimized RESTful APIs, contributing to the overall system architecture.<br/>
 
-<h3>Backend Software Development Engineer Intern</h3>
+<h3>Backend Software Engineer Intern</h3>
 EPAM Systems<br/>
 Aug 2022 – Dec 2022 · 5 mos<br/>
 Kazakhstan · Remote<br/>
-•	Skills: Java, Spring Framework, PostgreSQL, Flyway, Thymeleaf.<br/>
-•	Successfully completed an intensive Java Web Development training program, resulting in a comprehensive project and a certification.<br/>
+•	Successfully completed an intensive Java Web Development pre-production lab, guided by experienced mentors and lecturers.<br/>
+•	The program included self-study, assignments, and culminated in an individually developed web project and certification.<br/>
+•	Mastered fundamental Computer Science skills: data structures, algorithms, databases, and object-oriented programming.<br/>
 
 <h3>English Translator</h3><br/>
 Self-employed<br/>
