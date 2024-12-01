@@ -74,7 +74,7 @@ Grade: 4.4/5<br/><br/>
 <b>National Aerospace University “Kharkiv Aviation Institute”</b> (Kharkiv, Ukraine)<br/>
 Bachelor’s Degree in Aircraft and Rocket Construction and Design (fully funded by the Ukrainian Government Scholarship)<br/>
 Sep 2012 – Jun 2016<br/>
-Grade: 4.3/5<br/>
+Grade: 4.3/5<br/><br/>
 
 <h2>Languages</h2>
 *   English – <a href='https://www.efset.org/cert/8Aomkp'>proficient (C2)</a><br/>
