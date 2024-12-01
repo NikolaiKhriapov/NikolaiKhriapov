@@ -44,7 +44,7 @@ Kazakhstan · Remote<br/>
 •	The program included self-study, assignments, and culminated in an individually developed web project and certification.<br/>
 •	Mastered fundamental Computer Science skills: data structures, algorithms, databases, and object-oriented programming.<br/>
 
-<h3>English Translator</h3><br/>
+<h3>English Translator</h3>
 Self-employed<br/>
 Nov 2018 - Nov 2022 · 4 yrs 1 mo<br/>
 Skills: English<br/>
@@ -53,7 +53,7 @@ Skills: English<br/>
 <b>Modular2Simple: A Tool for Modular Scenario Creation Based on the OpenSCENARIO Format</b> (Java, Python)<br/>
 GitHub repository: <a href="https://github.com/NikolaiKhriapov/modular2simple">github.com/NikolaiKhriapov/modular2simple</a>, official CARLA simulator repository: <a href="https://github.com/carla-simulator">github.com/carla-simulator</a><br/>
 •	Developed a framework for modular scenario creation in Autonomous Driving Systems, compatible with any software supporting the OpenSCENARIO format, reducing code complexity by approximately 50% and improving scenario management.<br/>
-•	Presented the research paper "Modular2Simple: A Tool for Modular Scenario Creation Based on the OpenSCENARIO Format" at CMAAE 2024 (publication pending).<br/>
+•	Presented the research paper "Modular2Simple: A Tool for Modular Scenario Creation Based on the OpenSCENARIO Format" at CMAAE 2024 (publication pending).<br/><br/>
 
 <b>Daily Lexika</b> (Java, Spring Framework, PostgreSQL, Flyway, JavaScript, TypeScript, React.js, Next.js, Redux.js, Nx)<br/>
 Links: website: <a href="https://dailylexika.com/">dailylexika.com</a>, Play Store: <a href="https://play.google.com/store/apps/details?id=com.dailylexika.twa">Daily Lexika</a><br/>
