@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/15e112fc-d2bf-46f3-b22f-adb9fd29b386)![image](https://github.com/user-attachments/assets/e1e510b3-a763-42b0-884a-c1ebd186809e)![image](https://github.com/user-attachments/assets/44cb4aa9-73f0-4a13-b396-18fc1da7964c)![image](https://github.com/user-attachments/assets/5ebda17a-1652-4d80-b3c4-4c4a9692ccd1)![image](https://github.com/user-attachments/assets/4badf639-56a4-4344-bdd6-86150453c623)![image](https://github.com/user-attachments/assets/881c20a7-028c-4d9c-92f9-c0a89d3fea29)<h1 align='center'>Nikolai Khriapov</h2>
+<h1 align='center'>Nikolai Khriapov</h2>
 
 <p align='center'>
   <a href="mailto:nikolai.khriapov@icloud.com">nikolai.khriapov@icloud.com</a>
