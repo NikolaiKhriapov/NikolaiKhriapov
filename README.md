@@ -14,7 +14,7 @@
 
 <h2>Work Experience</h2>
 <h3>Full-Stack Software Engineer & Tech Lead</h3>
-<b>Freelbee / Braindoc</b> (Fintech Saas Startup)
+<b>Freelbee / Braindoc</b> (Fintech Saas Startup)<br/>
 Aug 2024 – Present<br/>
 •	Led a team of 5 engineers to develop and launch an MVP within 4 months, delivering the core product.<br/>
 •	Architected a scalable modular monolith backend, ensuring strong domain separation to simplify future migration to microservices, and a monorepo frontend, maximizing code reusability.<br/>
@@ -24,7 +24,7 @@ Aug 2024 – Present<br/>
 •	Architected document storage layer using AWS S3, implementing pre-signed URLs to securely manage sensitive user documents.<br/>
 •	Integrated the Federal Tax System API, eliminating manual verification and ensuring real-time regulatory adherence.<br/>
 <h3>Junior Full-Stack Software Engineer</h3>
-<b>Freelbee / Braindoc</b> (Fintech Saas Startup)
+<b>Freelbee / Braindoc</b> (Fintech Saas Startup)<br/>
 Oct 2023 – Jul 2024 · 10 mos<br/>
 •	Built and maintained multiple responsive web interfaces using React.js, Next.js, and Redux.js.<br/>
 •	Implemented backend multilingual support, improving global accessibility.<br/>
