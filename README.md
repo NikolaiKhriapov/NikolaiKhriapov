@@ -65,7 +65,7 @@ Skills: English<br/><br/>
 
 <h2>Education</h2>
 <b>Master’s Degree (Research) – Computer Science & Software Engineering</b><br/>
-Sep 2022 – Apr 2025<br/>
+Sep 2022 – Oct 2025<br/>
 Nanjing University of Aeronautics and Astronautics, China (fully funded by the Chinese Government Scholarship)<br/>
 Grade: 4.4/5<br/><br/>
 
