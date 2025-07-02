@@ -13,10 +13,9 @@
 <b>Other</b>: Docker, AWS S3.<br/><br/>
 
 <h2>Work Experience</h2>
-<h3>Freelbee / Braindoc (Fintech Saas Startup)</h3>
-Oct 2023 – Present<br/>
-Russia · Remote<br/>
 <h3>Full-Stack Software Engineer & Tech Lead</h3>
+<b>Freelbee / Braindoc</b> (Fintech Saas Startup)
+Oct 2023 – Present<br/>
 •	Led a team of 5 engineers to develop and launch an MVP within 4 months, delivering the core product.<br/>
 •	Architected a scalable modular monolith backend, ensuring strong domain separation to simplify future migration to microservices, and a monorepo frontend, maximizing code reusability.<br/>
 •	Developed a subscription management service, establishing the core monetization engine for the MVP.<br/>
@@ -33,13 +32,11 @@ Russia · Remote<br/>
 <h3>Backend Software Engineer Intern</h3>
 Prometeo Chain System<br/>
 Aug 2023 – Sep 2023 · 2 mos<br/>
-Kazakhstan · Remote<br/>
 •	Developed and optimized RESTful APIs, contributing to the overall system architecture.<br/>
 
 <h3>Backend Software Engineer Intern</h3>
 EPAM Systems<br/>
 Aug 2022 – Dec 2022 · 5 mos<br/>
-Kazakhstan · Remote<br/>
 •	Completed an intensive Java Web Development pre-production lab, culminating in the successful delivery of a capstone project.<br/>
 •	Leveraged fundamental computer science skills, including data structures, algorithms, databases, and object-oriented programming.<br/>
 
