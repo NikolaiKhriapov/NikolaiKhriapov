@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/109ab216-86b8-4b5c-ad2c-93c49bd79d23)![image](https://github.com/user-attachments/assets/b0d4c6f7-d9f2-4242-9c3b-984d4fb0b2ba)![image](https://github.com/user-attachments/assets/bf7d507a-7359-4329-8ec5-ce0634b6ce8f)![image](https://github.com/user-attachments/assets/f099f6be-cebf-4e45-b335-9d4fd7fc6749)![image](https://github.com/user-attachments/assets/16fd6984-4432-42d8-a667-d9eeb33680cf)![image](https://github.com/user-attachments/assets/2fd48b9a-58d4-4dd3-9100-6e69d1101bad)<h1 align='center'>Nikolai Khriapov</h2>
-
 <p align='center'>
   <a href="mailto:nikolai.khriapov@icloud.com">nikolai.khriapov@icloud.com</a>
   <a href="https://www.linkedin.com/in/khriapov-nikolai">linkedin.com/in/khriapov-nikolai</a>
