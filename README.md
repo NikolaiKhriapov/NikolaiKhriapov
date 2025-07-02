@@ -13,7 +13,7 @@
 <b>Other</b>: Docker, AWS S3.<br/><br/>
 
 <h2>Work Experience</h2>
-<h3>Freelbee / Braindoc</h3> (Fintech Saas Startup)
+<h3>Freelbee / Braindoc (Fintech Saas Startup)</h3>
 Oct 2023 – Present<br/>
 Russia · Remote<br/>
 <h3>Full-Stack Software Engineer & Tech Lead</h3>
