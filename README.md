@@ -48,10 +48,10 @@ Nov 2018 - Nov 2022 · 4 yrs 1 mo<br/>
 Skills: English<br/><br/>
 
 <h2>Projects</h2>
-<b>Modular2Simple</b> | Java, Python (GitHub: <a href="https://github.com/NikolaiKhriapov/modular2simple">github.com/NikolaiKhriapov/modular2simple</a>)<br/>
+<h3><b>Modular2Simple</b> | Java, Python (GitHub: <a href="https://github.com/NikolaiKhriapov/modular2simple">github.com/NikolaiKhriapov/modular2simple</a>)</h3><br/>
 •	Developed an open-source, peer-reviewed framework (published CEVVE 2024) for modular scenario creation in autonomous driving systems, reducing scenario code complexity by ~50%.<br/>
 
-<b>Daily Lexika</b> | Java, Spring Framework, PostgreSQL, Flyway, JavaScript, TypeScript, React.js, Next.js, Redux.js, Nx (website: <a href="https://dailylexika.com/">dailylexika.com</a>)<br/>
+<h3><b>Daily Lexika</b> | Java, Spring Framework, PostgreSQL, Flyway, JavaScript, TypeScript, React.js, Next.js, Redux.js, Nx (website: <a href="https://dailylexika.com/">dailylexika.com</a>)</h3><br/>
 •	Developed a full-stack cross-platform web application for English and Chinese vocabulary practice using spaced-repetition approach.<br/>
 •	Designed a robust multi-module backend with Java and Spring and an intuitive, responsive frontend with React and Next.js.<br/>
 •	Deployed the application to Google Cloud and published it as a Progressive Web Application (PWA) on the Play Store.<br/>
