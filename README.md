@@ -32,18 +32,18 @@ Oct 2023 – Jul 2024 · 10 mos<br/>
 •	Contributed significantly to the migration from a monolithic to a modular architecture, improving scalability and maintainability.<br/>
 
 <h3>Backend Software Engineer Intern</h3>
-Prometeo Chain System<br/>
+<b>Prometeo Chain System</b><br/>
 Aug 2023 – Sep 2023 · 2 mos<br/>
 •	Developed and optimized RESTful APIs, contributing to the overall system architecture.<br/>
 
 <h3>Backend Software Engineer Intern</h3>
-EPAM Systems<br/>
+<b>EPAM Systems</b><br/>
 Aug 2022 – Dec 2022 · 5 mos<br/>
 •	Completed an intensive Java Web Development pre-production lab, culminating in the successful delivery of a capstone project.<br/>
 •	Leveraged fundamental computer science skills, including data structures, algorithms, databases, and object-oriented programming.<br/>
 
 <h3>English Translator</h3>
-Self-employed<br/>
+<b>Self-employed</b><br/>
 Nov 2018 - Nov 2022 · 4 yrs 1 mo<br/>
 Skills: English<br/><br/>
 
