@@ -57,6 +57,9 @@ Skills: English<br/><br/>
 •	Deployed the application to Google Cloud and published it as a Progressive Web Application (PWA) on the Play Store.<br/>
 •	Managed the full product development lifecycle, from ideation and design to deployment and iterative improvement.<br/>
 
+<h3><b>News Aggregator – Gen AI Intensive Course Capstone (Google / Kaggle, 2025)</b> | Python</h3>
+•	Developed an end-to-end news analysis tool using Large Language Models (LLMs) to aggregate news articles, perform bias analysis, and generate concise summaries.<br/>
+
 <h2>Research & Publications</h2>
 •	Khriapov, N., et al. (2025). Modular2Simple: A Tool for Modular Scenario Creation Based on the OpenSCENARIO Format. CEVVE 2024. Springer LNEE 1424, 2025. DOI 10.1007/978-981-96-6827-4_49.<br/><br/>
 
