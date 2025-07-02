@@ -1,4 +1,4 @@
-<h1 align='center'>Nikolai Khriapov</h2>
+![image](https://github.com/user-attachments/assets/109ab216-86b8-4b5c-ad2c-93c49bd79d23)![image](https://github.com/user-attachments/assets/b0d4c6f7-d9f2-4242-9c3b-984d4fb0b2ba)![image](https://github.com/user-attachments/assets/bf7d507a-7359-4329-8ec5-ce0634b6ce8f)![image](https://github.com/user-attachments/assets/f099f6be-cebf-4e45-b335-9d4fd7fc6749)![image](https://github.com/user-attachments/assets/16fd6984-4432-42d8-a667-d9eeb33680cf)![image](https://github.com/user-attachments/assets/2fd48b9a-58d4-4dd3-9100-6e69d1101bad)<h1 align='center'>Nikolai Khriapov</h2>
 
 <p align='center'>
   <a href="mailto:nikolai.khriapov@icloud.com">nikolai.khriapov@icloud.com</a>
@@ -10,39 +10,39 @@
 <h2>Technical Skills</h2>
 <b>Backend</b>: Java, Spring Framework, PostgreSQL, Redis.<br/>
 <b>Frontend</b>: JavaScript, TypeScript, React.js, Next.js, Redux.js, Nx.<br/>
-<b>Other</b>: Docker.<br/><br/>
+<b>Other</b>: Docker, AWS S3.<br/><br/>
 
 <h2>Work Experience</h2>
-<h3>Freelbee</h3>
+<h3>Freelbee / Braindoc (Fintech Saas Startup)</h3>
 Russia · Remote<br/>
-<h3>Middle+ Full-Stack Software Engineer</h3>
+<h3>Full-Stack Software Engineer & Tech Lead</h3>
 Aug 2024 – Present<br/>
-•	Assumed the role of Team/Tech Lead, mentoring three developers and enhancing code quality through regular reviews.<br/>
-•	Contributed significantly to the design and implementation of scalable technical architectures for backend and frontend.<br/>
-•	Developed a subscription management service, improving user engagement and operational efficiency.<br/>
-•	Developed a power of attorney management service, including integration with the Machine-Readable PoA Registry.<br/>
-•	Integrated the Federal Tax System API, automating compliance processes and reducing manual effort.<br/>
+•	Led a team of 5 engineers to develop and launch an MVP within 4 months, delivering the core product.<br/>
+•	Architected a scalable modular monolith backend, ensuring strong domain separation to simplify future migration to microservices, and a monorepo frontend, maximizing code reusability.<br/>
+•	Developed a subscription management service, establishing the core monetization engine for the MVP.<br/>
+•	Developed a legislation-compliant document building service and e-signature system, drastically reducing contract creation time.<br/>
+•	Developed a power of attorney management service, including integration with the machine-readable PoA registry, streamlining the creation and validation of legal documents.<br/>
+•	Architected document storage layer using AWS S3, implementing pre-signed URLs to securely manage sensitive user documents.<br/>
+•	Integrated the Federal Tax System API, eliminating manual verification and ensuring real-time regulatory adherence.<br/>
 <h3>Junior Full-Stack Software Engineer</h3>
 Oct 2023 – Jul 2024<br/>
 •	Built and maintained multiple responsive web interfaces using React.js, Next.js, and Redux.js.<br/>
 •	Implemented backend multilingual support, improving global accessibility.<br/>
 •	Integrated third-party electronic signature and invoice-handling functionalities.<br/>
-•	Contributed significantly to the migration from monolithic to modular architecture, improving scalability and maintainability.<br/>
+•	Contributed significantly to the migration from a monolithic to a modular architecture, improving scalability and maintainability.<br/>
 
 <h3>Backend Software Engineer Intern</h3>
 Prometeo Chain System<br/>
 Aug 2023 – Sep 2023 · 2 mos<br/>
 Kazakhstan · Remote<br/>
-•	Optimized token management, reducing handling latency.<br/>
 •	Developed and optimized RESTful APIs, contributing to the overall system architecture.<br/>
 
 <h3>Backend Software Engineer Intern</h3>
 EPAM Systems<br/>
 Aug 2022 – Dec 2022 · 5 mos<br/>
 Kazakhstan · Remote<br/>
-•	Successfully completed an intensive Java Web Development pre-production lab, guided by experienced mentors and lecturers.<br/>
-•	The program included self-study, assignments, and culminated in an individually developed web project and certification.<br/>
-•	Mastered fundamental Computer Science skills: data structures, algorithms, databases, and object-oriented programming.<br/>
+•	Completed an intensive Java Web Development pre-production lab, culminating in the successful delivery of a capstone project.<br/>
+•	Leveraged fundamental computer science skills, including data structures, algorithms, databases, and object-oriented programming.<br/>
 
 <h3>English Translator</h3>
 Self-employed<br/>
@@ -50,30 +50,27 @@ Nov 2018 - Nov 2022 · 4 yrs 1 mo<br/>
 Skills: English<br/><br/>
 
 <h2>Projects</h2>
-<b>Modular2Simple: A Tool for Modular Scenario Creation Based on the OpenSCENARIO Format</b> (Java, Python)<br/>
-GitHub repository: <a href="https://github.com/NikolaiKhriapov/modular2simple">github.com/NikolaiKhriapov/modular2simple</a>, official CARLA simulator repository: <a href="https://github.com/carla-simulator">github.com/carla-simulator</a><br/>
-•	Developed a framework for modular scenario creation in Autonomous Driving Systems, compatible with any software supporting the OpenSCENARIO format, reducing code complexity by approximately 50% and improving scenario management.<br/>
-•	Presented the research paper "Modular2Simple: A Tool for Modular Scenario Creation Based on the OpenSCENARIO Format" at CMAAE 2024 (publication pending).<br/><br/>
+<b>Modular2Simple</b> | Java, Python (GitHub: <a href="https://github.com/NikolaiKhriapov/modular2simple">github.com/NikolaiKhriapov/modular2simple</a>)<br/>
+•	Developed an open-source, peer-reviewed framework (published CEVVE 2024) for modular scenario creation in autonomous driving systems, reducing scenario code complexity by ~50%.<br/>
 
-<b>Daily Lexika</b> (Java, Spring Framework, PostgreSQL, Flyway, JavaScript, TypeScript, React.js, Next.js, Redux.js, Nx)<br/>
-Links: website: <a href="https://dailylexika.com/">dailylexika.com</a>, Play Store: <a href="https://play.google.com/store/apps/details?id=com.dailylexika.twa">Daily Lexika</a><br/>
-•	Sole developer, latest ongoing individual project.<br/>
-•	Architected and developed a full-stack web application to aid in practicing and mastering English and Chinese vocabulary using spaced-repetition approach.<br/>
-•	Developed robust backend services; structured the project as a multi-module system to enhance modularity and maintainability.<br/>
-•	Designed and developed an intuitive, responsive user interface using React.js, Next.js, and Redux.js.<br/>
-•	Deployed the application to Google Cloud.<br/>
-•	Published as a Progressive Web Application (PWA) on the Play Store, making it easily accessible to a wide audience.<br/>
-•	Gained comprehensive experience in all stages of the product development lifecycle, from ideation to iterative improvement.<br/><br/>
+<b>Daily Lexika</b> | Java, Spring Framework, PostgreSQL, Flyway, JavaScript, TypeScript, React.js, Next.js, Redux.js, Nx (website: <a href="https://dailylexika.com/">dailylexika.com</a>)<br/>
+•	Developed a full-stack cross-platform web application for English and Chinese vocabulary practice using spaced-repetition approach.<br/>
+•	Designed a robust multi-module backend with Java and Spring and an intuitive, responsive frontend with React and Next.js.<br/>
+•	Deployed the application to Google Cloud and published it as a Progressive Web Application (PWA) on the Play Store.<br/>
+•	Managed the full product development lifecycle, from ideation and design to deployment and iterative improvement.<br/>
+
+<h2>Research & Publications</h2>
+•	Khriapov, N., et al. (2025). Modular2Simple: A Tool for Modular Scenario Creation Based on the OpenSCENARIO Format. CEVVE 2024. Springer LNEE 1424, 2025. DOI 10.1007/978-981-96-6827-4_49.<br/><br/>
 
 <h2>Education</h2>
-<b>Nanjing University of Aeronautics and Astronautics</b> (Nanjing, China)<br/>
-Master’s Degree in Computer Science and Software Engineering (fully funded by the Chinese Government Scholarship)<br/>
+<b>Master’s Degree (Research) – Computer Science & Software Engineering</b><br/>
 Sep 2022 – Apr 2025<br/>
+Nanjing University of Aeronautics and Astronautics, China (fully funded by the Chinese Government Scholarship)<br/>
 Grade: 4.4/5<br/><br/>
 
-<b>National Aerospace University “Kharkiv Aviation Institute”</b> (Kharkiv, Ukraine)<br/>
-Bachelor’s Degree in Aircraft and Rocket Construction and Design (fully funded by the Ukrainian Government Scholarship)<br/>
+<b>Bachelor’s Degree – Aircraft and Rocket Construction and Design</b><br/>
 Sep 2012 – Jun 2016<br/>
+National Aerospace University “Kharkiv Aviation Institute”, Ukraine (fully funded by the Ukrainian Government Scholarship)<br/>
 Grade: 4.3/5<br/><br/>
 
 <h2>Languages</h2>
