@@ -7,13 +7,12 @@
   <a href="https://t.me/nikolai_khriapov">t.me/nikolai_khriapov</a>
 </p>
 
-<h2>Technical Skills</h2>
-<b>Backend</b>: Java, Spring Framework, PostgreSQL, Redis.<br/>
-<b>Frontend</b>: JavaScript, TypeScript, React.js, Next.js, Redux.js, Nx.<br/>
-<b>Other</b>: Docker, AWS S3.<br/><br/>
+<h2>Skills</h2>
+<b>Technical</b>: Java, Spring Framework, PostgreSQL, Redis, JavaScript, TypeScript, React, Next.js, Redux, Nx, Docker, AWS S3.<br/>
+<b>Languages</b>: English (<a href="https://www.efset.org/cert/8Aomkp">C2 – EF SET</a>), Russian (native), Ukrainian (native), Chinese (<a href="https://drive.google.com/file/d/1-Aon0NNFj-6pUNooN5znA0nbrdOAL4P8/view?usp=sharing">HSK 3</a>)<br/>
 
 <h2>Work Experience</h2>
-<h3>Full-Stack Software Engineer & Tech Lead</h3>
+<h3>Middle Full-Stack Software Engineer</h3>
 <b>Freelbee / Braindoc</b> (Fintech Saas Startup)<br/>
 Aug 2024 – Present<br/>
 •	Led a team of 5 engineers to develop and launch an MVP within 4 months, delivering the core product.<br/>
@@ -26,7 +25,7 @@ Aug 2024 – Present<br/>
 <h3>Junior Full-Stack Software Engineer</h3>
 <b>Freelbee / Braindoc</b> (Fintech Saas Startup)<br/>
 Oct 2023 – Jul 2024 · 10 mos<br/>
-•	Built and maintained multiple responsive web interfaces using React.js, Next.js, and Redux.js.<br/>
+•	Built and maintained multiple responsive web interfaces using React, Next.js, and Redux.<br/>
 •	Implemented backend multilingual support, improving global accessibility.<br/>
 •	Integrated third-party electronic signature and invoice-handling functionalities.<br/>
 •	Contributed significantly to the migration from a monolithic to a modular architecture, improving scalability and maintainability.<br/>
@@ -51,7 +50,7 @@ Skills: English<br/><br/>
 <h3><b>Modular2Simple</b> | Java, Python (GitHub: <a href="https://github.com/NikolaiKhriapov/modular2simple">github.com/NikolaiKhriapov/modular2simple</a>)</h3>
 •	Developed an open-source, peer-reviewed framework (published CEVVE 2024) for modular scenario creation in autonomous driving systems, reducing scenario code complexity by ~50%.<br/>
 
-<h3><b>Daily Lexika</b> | Java, Spring Framework, PostgreSQL, Flyway, JavaScript, TypeScript, React.js, Next.js, Redux.js, Nx (website: <a href="https://dailylexika.com/">dailylexika.com</a>)</h3>
+<h3><b>Daily Lexika</b> | Java, Spring Framework, PostgreSQL, Flyway, JavaScript, TypeScript, React, Next.js, Redux, Nx (website: <a href="https://dailylexika.com/">dailylexika.com</a>)</h3>
 •	Developed a full-stack cross-platform web application for English and Chinese vocabulary practice using spaced-repetition approach.<br/>
 •	Designed a robust multi-module backend with Java and Spring and an intuitive, responsive frontend with React and Next.js.<br/>
 •	Deployed the application to Google Cloud and published it as a Progressive Web Application (PWA) on the Play Store.<br/>
