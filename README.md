@@ -5,6 +5,6 @@
 This GitHub profile is archived and no longer maintained.
 
 My current GitHub profile:
-[github.com/nikolai-khriapov]([https://github.com/NEW_USERNAME](https://github.com/nikolai-khriapov))
+[github.com/nikolai-khriapov](https://github.com/nikolai-khriapov)
 
 For recent projects and updated information, please visit the profile above.
