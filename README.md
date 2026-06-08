@@ -1,6 +1,6 @@
 <h1 align='center'>Nikolai Khriapov</h1>
 
-# Profile Moved
+## Profile Moved
 
 This GitHub profile is archived and no longer maintained.
 
